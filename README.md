@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santhosh9361
-- 👀 I’m interested in Coding and PC Hardware
+- 👀 I’m interested in Web Dev and App Dev
 - 🌱 I’m currently learning Btech CSE AIML
 - 📫 How to reach me santhoshvedakrishnan@gmail.com
 
