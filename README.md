@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santhosh9361
+- 👋 Hi, I’m @santhoshkv24
 - 👀 I’m interested in Web Dev and App Dev
 - 🌱 I’m currently learning Btech CSE AIML
 - 📫 How to reach me santhoshvedakrishnan@gmail.com
